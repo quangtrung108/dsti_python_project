@@ -1,6 +1,7 @@
 # DSTI - Python project group
+# 📖 Introduction
 
-# This project focuses on cybersecurity data analysis, specifically preparing a network attack log for machine learning applications. The goal is to analyze network traffic, identify attack patterns, and develop models to detect anomalies or malicious activity.
+This project focuses on cybersecurity data analysis, specifically preparing a network attack log for machine learning applications. The goal is to analyze network traffic, identify attack patterns, and develop models to detect anomalies or malicious activity.
 
 📊 Exploratory Data Analysis (EDA): Cleaning and analyzing network logs.
 
