@@ -9,3 +9,13 @@ To run the Streamlit app, follow these steps:
 
    ```bash
    pip install streamlit
+
+2. Navigate to the directory where your app.py file is located.
+
+
+3. Run the app with the following command
+    
+    ```bash
+    streamlit run app.py
+
+4. The app will open automatically in your default browser at http://localhost:8501. If not, open it manually.
