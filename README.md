@@ -1,9 +1,21 @@
 # DSTI - Python project group
 ## 📹 Video Demo
 [![Demo Video](https://img.youtube.com/vi/tGoqZqluvN0/maxresdefault.jpg)](https://youtu.be/tGoqZqluvN0)
-## 🚀 Running the app
+## 🚀 How to Run the Project
 
-To run the Streamlit app, follow these steps:
+1.  Install the required Python libraries by running :
+
+    ```bash
+    pip install -r requirements.txt
+
+2. Run EDA Notebook
+
+    ```bash
+    jupyter notebook ./EDA+ML/Cybersecurity_Analysis_Modeling-1.ipynb
+
+
+
+## 🚀 Run the Streamlit app, follow these steps:
 
 1. Install Streamlit (if you haven't already):
 
