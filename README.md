@@ -1,4 +1,4 @@
-# dsti_python_project
+# DSTI - Python project group
 ## 📹 Video Demo
 [![Demo Video](https://img.youtube.com/vi/tGoqZqluvN0/maxresdefault.jpg)](https://youtu.be/tGoqZqluvN0)
 ## 🚀 Running the app
